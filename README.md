@@ -6,3 +6,8 @@ Hi! Use this repo to share and keep track of software and tech programs for the 
 📈 For more tips on the internship process check out the [Zero to Offer program here](https://www.pittcs.wiki/zero-to-offer).📈
 
 🤗 **Contribute by DM my on instagram @emelysilly**  🤗
+
+## The List 👔
+
+| Name  |  Location |  Notes |
+|---|---|-------------|
