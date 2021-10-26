@@ -25,3 +25,4 @@ Hi! Use this repo to share and keep track of software and tech programs for the 
 | Name  | Location | Deadline |  Notes |
 |---|-------------|---|---|
 |[FreeCodeCamp](https://www.4pt0.org/essentials) | Virtual | On your own time | Check out the site to find mutiple certification programs! Such as Web Design, Data Structures, Front End, Data Analysis, Interview prep and more! |
+|[Codecademy](https://www.codecademy.com) | Virtual | On your own time | A Pro Individual Account is $19.99 a month|
