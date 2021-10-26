@@ -22,9 +22,10 @@ Hi! Use this repo to share and keep track of software and tech programs for the 
 
 ## BootCamps 👔
 
-| Name  | Location | Deadline |  Notes |
-|---|-------------|---|---|
-|[FreeCodeCamp](https://www.4pt0.org/essentials) | Virtual | On your own time | Check out the site to find mutiple certification programs! Such as Web Design, Data Structures, Front End, Data Analysis, Interview prep and more! |
-|[Codecademy](https://www.codecademy.com) | Virtual | On your own time | A Pro Individual Account is $19.99 a month|
-|[Udemy](https://www.udemy.com) | Virtual | On your own time | A Pro Individual Account is $19.99 a month| Different program cost different prices, for example The Web Developer BootCamp 2021 cost $18.99 (On Sale OG cost was $129.99|
-|[Udacity](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) | Virtual | On your own time |Programs suchs as AI, Cloud Computing, CyberSecurity, Data Science, Programming and Development, and more; Prices vary|
+| Name  | Location | Time | Price | Notes |
+|---|-------------|---|---|---|
+|[FreeCodeCamp](https://www.4pt0.org/essentials) | Virtual | On your own time | Free | Check out the site to find mutiple certification programs! Such as Web Design, Data Structures, Front End, Data Analysis, Interview prep and more! |
+|[Codecademy](https://www.codecademy.com) | Virtual | On your own time | A Pro Individual Account is $19.99 a month| |
+|[Udemy](https://www.udemy.com) | Virtual | On your own time | Price Varys | A Pro Individual Account is $19.99 a month| Different program cost different prices, for example The Web Developer BootCamp 2021 cost $18.99 (On Sale OG cost was $129.99|
+|[Udacity](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) | Virtual | On your own time | Price Varys | Programs suchs as AI, Cloud Computing, CyberSecurity, Data Science, Programming and Development, and more|
+
