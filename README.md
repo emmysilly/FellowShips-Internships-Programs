@@ -3,3 +3,6 @@ Hi! Use this repo to share and keep track of software and tech programs for the 
 
 :warning: **This repository is only for internships/co-ops in the United States or for Remote positions:earth_americas:.**
 
+📈 For more tips on the internship process check out the [Zero to Offer program here](https://www.pittcs.wiki/zero-to-offer).📈
+
+🤗 **Contribute by DM my on instagram @emelysilly**  🤗
