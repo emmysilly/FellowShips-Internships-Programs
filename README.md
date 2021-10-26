@@ -11,3 +11,4 @@ Hi! Use this repo to share and keep track of software and tech programs for the 
 
 | Name  |  Type | Location | Deadline |  Notes |
 |---|---|-------------|---|---|
+|[Essentials Fellowship](https://www.4pt0.org/essentials) | Fellowship | CA | May Open Around April 20, 2022 |   |
