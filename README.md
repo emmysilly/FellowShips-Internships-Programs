@@ -11,7 +11,7 @@ Hi! Use this repo to share and keep track of software and tech programs for the 
 
 | Name  | Location | Deadline |  Notes |
 |---|-------------|---|---|
-|[Essentials Fellowship](https://www.4pt0.org/essentials) | Fellowship | CA | May Open Around April 20, 2022 |   |
+|[Essentials Fellowship](https://www.4pt0.org/essentials) | CA | May Open Around April 20, 2022 |   |
 
 
 ## Internships 👔
@@ -28,4 +28,5 @@ Hi! Use this repo to share and keep track of software and tech programs for the 
 |[Codecademy](https://www.codecademy.com) | Virtual | On your own time | A Pro Individual Account is $19.99 a month| |
 |[Udemy](https://www.udemy.com) | Virtual | On your own time | Price Varys | A Pro Individual Account is $19.99 a month| Different program cost different prices, for example The Web Developer BootCamp 2021 cost $18.99 (On Sale OG cost was $129.99|
 |[Udacity](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) | Virtual | On your own time | Price Varys | Programs suchs as AI, Cloud Computing, CyberSecurity, Data Science, Programming and Development, and more|
-
+|[JetBrains Academy](https://www.jetbrains.com/academy/) | Virtual | On your own time | Free Track, but Monthly Subscription $49.90/ Annual $249.00 | Programs suchs as AI, Cloud Computing, CyberSecurity, Data Science, Programming and Development, and more|
+|[AppCoda](https://www.appcoda.com/) | Virtual | On your own time | |
